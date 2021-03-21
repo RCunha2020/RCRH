@@ -1,0 +1,3 @@
+1- O arquivo .sql na raiz do projeto é para importação no mysql.
+
+2- Os uploads  estão indo para a pasta src/uploads/currículos
